@@ -6,9 +6,7 @@
 
 <p align="left">
 <a href="https://fb.com/bijan.regmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/facebook.svg" alt="bijan.regmi" height="30" width="40" /></a>
-
 <a href="https://instagram.com/bijan.regmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/instagram.svg" alt="bijan.regmi" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/c/immortalda2" target="blank"><img align="center" src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/youtube.svg" alt="immortalda2" height="30" width="40" /></a>
 </p>
 
@@ -16,20 +14,12 @@
 
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/python.svg" alt="python" width="40" height="40"/> </a>
- 
 <a href="https://www.qt.io/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/qt.svg" alt="qt" width="40" height="40"/> </a>
-
 <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/opencv.svg" alt="opencv" width="40" height="40"/> </a>
-
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/selenium.svg" alt="selenium" width="40" height="40"/> </a>
-
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/linux.svg" alt="linux" width="40" height="40"/> </a>
-
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/git.svg" alt="git" width="40" height="40"/> </a>
-
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/c.svg" alt="c" width="40" height="40"/> </a>
-
-
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/arduino.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
