@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Bijan Regmi</h1>
-<h3 align="center">An engineering student.</h3>
+<h5 align="center">Potato</h5>
 
 <h3 align="left">Connect with me:</h3>
 
