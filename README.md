@@ -22,6 +22,7 @@
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/linux.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/git.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/c.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/cpp.svg" alt="cpp" width="40" height="40"/> </a>
  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/arduino.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
