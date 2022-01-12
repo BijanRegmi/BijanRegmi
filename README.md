@@ -12,7 +12,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools That I Use:</h3>
+<h3 align="left">Languages and Tools that I have used:</h3>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/python.svg" alt="python" width="40" height="40"/> </a>
@@ -31,4 +31,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=dark&locale=en&layout=compact" alt="bijanregmi" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=dark&locale=en" alt="bijanregmi" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=dark&locale=en" alt="bijanregmi" />
+</p>
+
+<p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark&locale=en" alt="bijanregmi" />
+</p>
