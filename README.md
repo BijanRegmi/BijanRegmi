@@ -27,18 +27,18 @@
 </p>
 
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=dark&locale=en&layout=compact" alt="bijanregmi" />
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=dark&locale=en&layout=compact" alt="bijanregmi" />
 </p>
 
-<p>
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=dark&locale=en" alt="bijanregmi" />
 </p>
 
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark&locale=en" alt="bijanregmi" />
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark&locale=en" alt="bijanregmi" />
 </p>
 
-<p>
-<img alight="right" src="https://komarev.com/ghpvc/?username=BijanRegmi&style=plastic&color=orange" />
+<p alight="right">
+<img align="right" src="https://komarev.com/ghpvc/?username=BijanRegmi&style=plastic&color=orange" />
 </p>
