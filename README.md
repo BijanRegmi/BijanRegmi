@@ -38,3 +38,7 @@
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark&locale=en" alt="bijanregmi" />
 </p>
+
+<p>
+<img alight="right" src="https://komarev.com/ghpvc/?username=BijanRegmi&style=plastic&color=orange" />
+</p>
