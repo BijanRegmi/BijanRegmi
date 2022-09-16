@@ -21,19 +21,19 @@
 
 <h2 align="center">Language and Tools</h2>
 <p align="center">
-    <code><img src="https://img.shields.io/badge/Language-JS-B33333?style=flat&logo=javascript&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Language-C++-B33333?style=flat&logo=C%2B%2B&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Language-Python-B33333?style=flat&logo=python&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Language-C-B33333?style=flat&logo=C&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Framework-MongoDB-B33333?style=flat&logo=mongodb&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Framework-Express-B33333?style=flat&logo=express&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Framework-React-B33333?style=flat&logo=react&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Framework-Node-B33333?style=flat&logo=node.js&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Framework-Redux-B33333?style=flat&logo=redux&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Library-SFML-B33333?style=flat&logo=sfml&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Library-OpenGL-B33333?style=flat&logo=opengl&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Tool-Docker-B33333?style=flat&logo=docker&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/Tool-git-B33333?style=flat&logo=git&logoColor=white"    /></code>
+    <img src="https://img.shields.io/badge/Language-JS-B33333?style=flat&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Language-C++-B33333?style=flat&logo=C%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Language-Python-B33333?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Language-C-B33333?style=flat&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framework-MongoDB-B33333?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framework-Express-B33333?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framework-React-B33333?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framework-Node-B33333?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framework-Redux-B33333?style=flat&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Library-SFML-B33333?style=flat&logo=sfml&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Library-OpenGL-B33333?style=flat&logo=opengl&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tool-Docker-B33333?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tool-git-B33333?style=flat&logo=git&logoColor=white"/>
 </p>
 
 <h2 align="center">My Working Environment</h2>
@@ -44,30 +44,6 @@
     <code><img src="https://img.shields.io/badge/Shell-Bash-B33333?style=flat&logo=gnu-bash&logoColor=white"         /></code>
     <code><img src="https://img.shields.io/badge/Terminal-st-B33333?style=flat&logo=suckless&logoColor=white"        /></code>
     <code><img src="https://img.shields.io/badge/CPU-Intel_i9_5500U-B33333?style=flat&logo=intel&logoColor=white"        /></code>
-</p>
-
-<hr>
-
-<h2 align="center">Repos</h2>
-<p align="center" style="display: flex;justify-content: center">
-    <img
-        align="center"
-        height="100vh"
-        alt="dotfiles"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=dotfiles&theme=dark&show_owner=true"
-    />
-    <img
-        align="center"
-        height="100vh"
-        alt="winder"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=winder&theme=dark&show_owner=true"
-    />
-    <img
-        align="center"
-        height="100vh"
-        alt="Sort-Visualizer"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=Sort-Visualizer&theme=dark&show_owner=true"
-    />
 </p>
 
 <hr>
@@ -112,7 +88,30 @@
     />
 </p>
 
-<br>
+<hr>
+
+<h2 align="center">Repos</h2>
+<p align="center" style="display: flex;justify-content: center">
+    <img
+        align="center"
+        height="100vh"
+        alt="dotfiles"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=dotfiles&theme=dark&show_owner=true"
+    />
+    <img
+        align="center"
+        height="100vh"
+        alt="winder"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=winder&theme=dark&show_owner=true"
+    />
+    <img
+        align="center"
+        height="100vh"
+        alt="Sort-Visualizer"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=Sort-Visualizer&theme=dark&show_owner=true"
+    />
+</p>
+
 <hr>
 
 <p align="right">
