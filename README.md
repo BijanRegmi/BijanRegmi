@@ -43,18 +43,42 @@
 
 <hr>
 
+<h2 align="center">Repos</h2>
+<p align="center" style="display: flex;justify-content: center">
+    <img
+        align="center"
+        height="100vh"
+        alt="dotfiles"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=dotfiles&theme=dark&show_owner=true"
+    />
+    <img
+        align="center"
+        height="100vh"
+        alt="winder"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=winder&theme=dark&show_owner=true"
+    />
+    <img
+        align="center"
+        height="100vh"
+        alt="Sort-Visualizer"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=Sort-Visualizer&theme=dark&show_owner=true"
+    />
+</p>
+
+<hr>
+
 <h2 align="center">Stats</h2>
 <p align="center">
     <img 
         align="center"
         height="150vh"
-        alt="bijanregmi"
+        alt="Most-Used-Language"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=dark&layout=compact"
     />
     <img
         align="center"
         height="150vh"
-        alt="bijanregmi"
+        alt="Github-Stats"
         src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=dark"
     />
 </p>
@@ -63,14 +87,23 @@
     <img
         align="center"
         height="150vh"
-        alt="bijanregmi"
+        alt="Profile-Overview"
         src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark"
     />
     <img
         align="center"
         height="150vh"
-        alt="wakatime"
+        alt="Wakatime-Stats"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=bijanregmi&theme=dark"
+    />
+</p>
+
+<p align="center">
+    <img
+        align="center"
+        width="100%"
+        alt="Activity-Graph"
+        src="https://activity-graph.herokuapp.com/graph?username=bijanregmi&bg_color=000000&line=B33333&color=ffffff&point=aaaaaa"
     />
 </p>
 
@@ -78,5 +111,9 @@
 <hr>
 
 <p align="right">
-    <img align="right" src="https://komarev.com/ghpvc/?username=BijanRegmi&style=plastic&color=orange" />
+    <img
+        align="right"
+        alt="Profile-views"
+        src="https://komarev.com/ghpvc/?username=BijanRegmi&style=plastic&color=B33333"
+    />
 </p>
