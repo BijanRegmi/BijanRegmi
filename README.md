@@ -47,13 +47,13 @@
 <p align="center">
     <img 
         align="center"
-        height="100vh"
+        height="150vh"
         alt="bijanregmi"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=dark&layout=compact"
     />
     <img
         align="center"
-        height="100vh"
+        height="150vh"
         alt="bijanregmi"
         src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=dark"
     />
@@ -62,13 +62,13 @@
 <p align="center">
     <img
         align="center"
-        height="100vh"
+        height="150vh"
         alt="bijanregmi"
         src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark"
     />
     <img
         align="center"
-        height="100vh"
+        height="150vh"
         alt="wakatime"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=bijanregmi&theme=dark"
     />
