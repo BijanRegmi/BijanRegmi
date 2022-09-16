@@ -4,6 +4,7 @@
         alt="Typing SVG" 
     />
 </h1>
+
 <h4 align="center">
     <a href="https://fb.com/bijan.regmi" target="blank">
         <img align="center" src="assets/facebook.svg" alt="bijan.regmi" width="40"/>
@@ -30,6 +31,7 @@
     <code><img src="cpp.svg"        alt="cpp"       height="40" /></code>
     <code><img src="arduino.svg"    alt="arduino"   height="40" /></code>
 </p>
+
 <h2 align="center">My Working Environment</h2>
 <p align="center">
     <code><img src="https://img.shields.io/badge/OS-Arch_Linux-B33333?style=flat&logo=arch linux&logoColor=white"    /></code>
@@ -41,18 +43,39 @@
 
 <hr>
 
-<h2 align="center">Stats </h2>
-<p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=dark&locale=en&layout=compact" alt="bijanregmi" />
+<h2 align="center">Stats</h2>
+<p align="center">
+    <img 
+        align="center"
+        height="200"
+        alt="bijanregmi"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=dark&layout=compact"
+    />
+    <img
+        align="center"
+        height="200"
+        alt="bijanregmi"
+        src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=dark"
+    />
 </p>
 
-<p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=dark&locale=en" alt="bijanregmi" />
+<p align="center">
+    <img
+        align="center"
+        height="200"
+        alt="bijanregmi"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark"
+    />
+    <img
+        align="center"
+        height="200"
+        alt="wakatime"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=bijanregmi&theme=dark"
+    />
 </p>
 
-<p align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark&locale=en" alt="bijanregmi" />
-</p>
+<br>
+<hr>
 
 <p align="right">
     <img align="right" src="https://komarev.com/ghpvc/?username=BijanRegmi&style=plastic&color=orange" />
