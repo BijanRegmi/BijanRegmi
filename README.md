@@ -26,15 +26,15 @@
 
 <h2 align="center">Language and Tools</h2>
 <p align="center">
-    <code> <img src="python.svg"     alt="python"    width="40" /> </code>
-    <code> <img src="qt.svg"         alt="qt"        width="40" /> </code>
-    <code> <img src="opencv.svg"     alt="opencv"    width="40" /> </code>
-    <code> <img src="selenium.svg"   alt="selenium"  width="40" /> </code>
-    <code> <img src="linux.svg"      alt="linux"     width="40" /> </code>
-    <code> <img src="git.svg"        alt="git"       width="40" /> </code>
-    <code> <img src="c.svg"          alt="c"         width="40" /> </code>
-    <code> <img src="cpp.svg"        alt="cpp"       width="40" /> </code>
-    <code> <img src="arduino.svg"    alt="arduino"   width="40" /> </code>
+    <code> <img src="python.svg"     alt="python"    height="25" /> </code>
+    <code> <img src="qt.svg"         alt="qt"        height="25" /> </code>
+    <code> <img src="opencv.svg"     alt="opencv"    height="25" /> </code>
+    <code> <img src="selenium.svg"   alt="selenium"  height="25" /> </code>
+    <code> <img src="linux.svg"      alt="linux"     height="25" /> </code>
+    <code> <img src="git.svg"        alt="git"       height="25" /> </code>
+    <code> <img src="c.svg"          alt="c"         height="25" /> </code>
+    <code> <img src="cpp.svg"        alt="cpp"       height="25" /> </code>
+    <code> <img src="arduino.svg"    alt="arduino"   height="25" /> </code>
 </p>
 <h2 align="center">My Working Environment</h2>
 <p align="center">
