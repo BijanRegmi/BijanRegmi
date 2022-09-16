@@ -6,13 +6,16 @@
 </h1>
 
 <h4 align="center">
-    <a href="https://fb.com/bijan.regmi" target="blank">
+    <a href="https://www.discord.com/users/392500556226363392" target="_blank">
+        <img align="center" src="assets/discord.svg" alt="discord-url" width="40" />
+    </a>
+    <a href="https://fb.com/bijan.regmi" target="_blank">
         <img align="center" src="assets/facebook.svg" alt="bijan.regmi" width="40"/>
     </a>
-    <a href="https://instagram.com/bijan.regmi" target="blank">
+    <a href="https://instagram.com/bijan.regmi" target="_blank">
         <img align="center" src="assets/instagram.svg" alt="bijan.regmi" width="40" />
     </a>
-    <a href="https://www.youtube.com/c/immortalda2" target="blank">
+    <a href="https://www.youtube.com/c/immortalda2" target="_blank">
         <img align="center" src="assets/youtube.svg" alt="immortalda2" width="40" />
     </a>
 </h4>
@@ -92,24 +95,30 @@
 
 <h2 align="center">Repos</h2>
 <p align="center" style="display: flex;justify-content: center">
+    <a href="https://github.com/BijanRegmi/dotfiles">
     <img
         align="center"
         height="100vh"
         alt="dotfiles"
         src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=dotfiles&theme=dark&show_owner=true"
     />
+    </a>
+    <a href="https://github.com/0xs3gfau1t/winder">
     <img
         align="center"
         height="100vh"
         alt="winder"
         src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=winder&theme=dark&show_owner=true"
     />
+    </a>
+    <a href="https://github.com/BijanRegmi/Sort-Visualizer">
     <img
         align="center"
         height="100vh"
         alt="Sort-Visualizer"
         src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=Sort-Visualizer&theme=dark&show_owner=true"
     />
+    </a>
 </p>
 
 <hr>
