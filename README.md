@@ -21,15 +21,19 @@
 
 <h2 align="center">Language and Tools</h2>
 <p align="center">
-    <code><img src="python.svg"     alt="python"    height="40" /></code>
-    <code><img src="qt.svg"         alt="qt"        height="40" /></code>
-    <code><img src="opencv.svg"     alt="opencv"    height="40" /></code>
-    <code><img src="selenium.svg"   alt="selenium"  height="40" /></code>
-    <code><img src="linux.svg"      alt="linux"     height="40" /></code>
-    <code><img src="git.svg"        alt="git"       height="40" /></code>
-    <code><img src="c.svg"          alt="c"         height="40" /></code>
-    <code><img src="cpp.svg"        alt="cpp"       height="40" /></code>
-    <code><img src="arduino.svg"    alt="arduino"   height="40" /></code>
+    <code><img src="https://img.shields.io/badge/Language-JS-B33333?style=flat&logo=javascript&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Language-C++-B33333?style=flat&logo=C%2B%2B&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Language-Python-B33333?style=flat&logo=python&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Language-C-B33333?style=flat&logo=C&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Framework-MongoDB-B33333?style=flat&logo=mongodb&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Framework-Express-B33333?style=flat&logo=express&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Framework-React-B33333?style=flat&logo=react&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Framework-Node-B33333?style=flat&logo=node.js&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Framework-Redux-B33333?style=flat&logo=redux&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Library-SFML-B33333?style=flat&logo=sfml&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Library-OpenGL-B33333?style=flat&logo=opengl&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Tool-Docker-B33333?style=flat&logo=docker&logoColor=white"    /></code>
+    <code><img src="https://img.shields.io/badge/Tool-git-B33333?style=flat&logo=git&logoColor=white"    /></code>
 </p>
 
 <h2 align="center">My Working Environment</h2>
@@ -39,6 +43,7 @@
     <code><img src="https://img.shields.io/badge/Editor-NeoVim-B33333?style=flat&logo=neovim&logoColor=white"        /></code>
     <code><img src="https://img.shields.io/badge/Shell-Bash-B33333?style=flat&logo=gnu-bash&logoColor=white"         /></code>
     <code><img src="https://img.shields.io/badge/Terminal-st-B33333?style=flat&logo=suckless&logoColor=white"        /></code>
+    <code><img src="https://img.shields.io/badge/CPU-Intel_i9_5500U-B33333?style=flat&logo=intel&logoColor=white"        /></code>
 </p>
 
 <hr>
