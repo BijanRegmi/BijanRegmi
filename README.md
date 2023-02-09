@@ -78,16 +78,7 @@
         align="center"
         height="150vh"
         alt="Wakatime-Stats"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=bijanregmi&theme=dark"
-    />
-</p>
-
-<p align="center">
-    <img
-        align="center"
-        width="100%"
-        alt="Activity-Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=bijanregmi&bg_color=000000&line=B33333&color=ffffff&point=aaaaaa"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=bijanregmi&theme=dark&langs_count=4"
     />
 </p>
 
