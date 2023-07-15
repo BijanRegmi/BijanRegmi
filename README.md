@@ -3,7 +3,7 @@
         alt="Typing SVG" />
 </p>
 
-<h4>
+<h4 align="center">
     <a href="https://www.discord.com/users/392500556226363392" target="_blank">
         <img alt="Discord"
             src="https://img.shields.io/badge/Discord-3e68d7?style=for-the-badge&logo=discord&logoColor=c0caf5&labelColor=394b70" />
