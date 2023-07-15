@@ -49,7 +49,7 @@
     <img alt="Terminal"
         src="https://img.shields.io/badge/Alacritty-3e68d7?style=for-the-badge&logo=alacritty&logoColor=c0caf5&labelColor=3b4261" />
     <img alt="Laptop"
-        src="https://img.shields.io/badge/ASUS_TFU_A15-3e68d7?style=for-the-badge&logo=asus&logoColor=c0caf5&labelColor=3b4261" />
+        src="https://img.shields.io/badge/ASUS_TUF_A15-3e68d7?style=for-the-badge&logo=asus&logoColor=c0caf5&labelColor=3b4261" />
     <img alt="GPU"
         src="https://img.shields.io/badge/Nvidia_3050Ti-3e68d7?style=for-the-badge&logo=nvidia&logoColor=c0caf5&labelColor=3b4261" />
 </p>
