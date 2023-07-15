@@ -1,123 +1,136 @@
-<h1 style="border-bottom: none" align="center">
-    <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B33333&center=true&vCenter=true&width=435&lines=Hello+There+%F0%9F%91%8B;Welcome+to+Bijan+Regmi's+profile!" 
-        alt="Typing SVG" 
-    />
-</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=3E68D7&width=435&lines=Hello+There;Welcome+to+Bijan+Regmi's+profile"
+        alt="Typing SVG" />
+</p>
 
-<h4 align="center">
+<h4>
     <a href="https://www.discord.com/users/392500556226363392" target="_blank">
-        <img align="center" src="assets/discord.svg" alt="discord-url" width="40" />
+        <img alt="Discord"
+            src="https://img.shields.io/badge/Discord-3e68d7?style=for-the-badge&logo=discord&logoColor=c0caf5&labelColor=394b70" />
     </a>
     <a href="https://fb.com/bijan.regmi" target="_blank">
-        <img align="center" src="assets/facebook.svg" alt="bijan.regmi" width="40"/>
+        <img alt="Facebook"
+            src="https://img.shields.io/badge/Facebook-3e68d7?style=for-the-badge&logo=facebook&logoColor=c0caf5&labelColor=394b70" />
     </a>
     <a href="https://instagram.com/bijan.regmi" target="_blank">
-        <img align="center" src="assets/instagram.svg" alt="bijan.regmi" width="40" />
+        <img alt="Instagram"
+            src="https://img.shields.io/badge/Instagram-3e68d7?style=for-the-badge&logo=instagram&logoColor=c0caf5&labelColor=394b70" />
     </a>
     <a href="https://www.youtube.com/c/immortalda2" target="_blank">
-        <img align="center" src="assets/youtube.svg" alt="immortalda2" width="40" />
+        <img alt="Youtube"
+            src="https://img.shields.io/badge/Youtube-3e68d7?style=for-the-badge&logo=youtube&logoColor=c0caf5&labelColor=394b70" />
+    </a>
+    <a href="mailto:mail@bijanregmi.com.np" target="_blank">
+        <img alt="Mail"
+            src="https://img.shields.io/badge/Mail-3e68d7?style=for-the-badge&logo=gmail&logoColor=c0caf5&labelColor=394b70" />
     </a>
 </h4>
 
-<hr>
+<hr />
 
-<h2 align="center">Language and Tools</h2>
-<p align="center">
-    <img src="https://img.shields.io/badge/Language-JS-B33333?style=flat&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Language-C++-B33333?style=flat&logo=C%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Language-Python-B33333?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Language-C-B33333?style=flat&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framework-MongoDB-B33333?style=flat&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framework-Express-B33333?style=flat&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framework-React-B33333?style=flat&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framework-Node-B33333?style=flat&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framework-Redux-B33333?style=flat&logo=redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Library-SFML-B33333?style=flat&logo=sfml&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Library-OpenGL-B33333?style=flat&logo=opengl&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tool-Docker-B33333?style=flat&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tool-git-B33333?style=flat&logo=git&logoColor=white"/>
+<img align="right" height="250" src="assets/cover.svg" />
+<h4>Language and Tools I use</h4>
+<img
+    src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,redux,tailwind,css,prisma,planetscale,postgres,mongodb,mysql,redis,express,postman,vercel,docker,git,bash,linux,neovim,md,cpp,python,lua&perline=10" />
+
+<h4>Exploring</h4>
+<img src="https://skillicons.dev/icons?i=nestjs,graphql,rust,kubernetes&perline=10" />
+
+<h4>Working Environment</h4>
+<p>
+    <img alt="OS"
+        src="https://img.shields.io/badge/Arch_Linux-3e68d7?style=for-the-badge&logo=arch%20linux&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="Window Manager"
+        src="https://img.shields.io/badge/Hyprland-3e68d7?style=for-the-badge&logo=wayland&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="Editor"
+        src="https://img.shields.io/badge/NeoVim-3e68d7?style=for-the-badge&logo=neovim&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="TMUX"
+        src="https://img.shields.io/badge/Tmux-3e68d7?style=for-the-badge&logo=tmux&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="Terminal"
+        src="https://img.shields.io/badge/Alacritty-3e68d7?style=for-the-badge&logo=alacritty&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="Laptop"
+        src="https://img.shields.io/badge/ASUS_TFU_A15-3e68d7?style=for-the-badge&logo=asus&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="GPU"
+        src="https://img.shields.io/badge/Nvidia_3050Ti-3e68d7?style=for-the-badge&logo=nvidia&logoColor=c0caf5&labelColor=3b4261" />
 </p>
 
-<h2 align="center">My Working Environment</h2>
-<p align="center">
-    <code><img src="https://img.shields.io/badge/OS-Arch_Linux-B33333?style=flat&logo=arch linux&logoColor=white"    /></code>
-    <code><img src="https://img.shields.io/badge/WM-Dwm-B33333?style=flat&logo=dwm&logoColor=white"                  /></code>
-    <code><img src="https://img.shields.io/badge/Editor-NeoVim-B33333?style=flat&logo=neovim&logoColor=white"        /></code>
-    <code><img src="https://img.shields.io/badge/Shell-Bash-B33333?style=flat&logo=gnu-bash&logoColor=white"         /></code>
-    <code><img src="https://img.shields.io/badge/Terminal-st-B33333?style=flat&logo=suckless&logoColor=white"        /></code>
-    <code><img src="https://img.shields.io/badge/CPU-Intel_i9_5500U-B33333?style=flat&logo=intel&logoColor=white"        /></code>
-</p>
+<hr />
 
-<hr>
+<table align="center">
+    <tr>
+        <th colspan="2">
+            <h4>Stats</h4>
+        </th>
+    </tr>
+    <tr>
+        <td align="left">
+            <img align="left" height="150vh" alt="Most-Used-Language"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=tokyonight&layout=compact" />
+        </td>
+        <td align="left">
+            <img align="left" height="150vh" alt="Github-Stats"
+                src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=tokyonight" />
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <img align="left" height="150vh" alt="Profile-Overview"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=tokyonight" />
+        </td>
+        <td align="left">
+            <img align="left" height="150vh" alt="Wakatime-Stats"
+                src="https://github-readme-stats.vercel.app/api/wakatime?username=bijanregmi&theme=tokyonight&langs_count=4" />
+        </td>
+    </tr>
+</table>
 
-<h2 align="center">Stats</h2>
-<p align="center">
-    <img 
-        align="center"
-        height="150vh"
-        alt="Most-Used-Language"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=dark&layout=compact"
-    />
-    <img
-        align="center"
-        height="150vh"
-        alt="Github-Stats"
-        src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=dark"
-    />
-</p>
+<hr />
 
-<p align="center">
-    <img
-        align="center"
-        height="150vh"
-        alt="Profile-Overview"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=BijanRegmi&theme=dark"
-    />
-    <img
-        align="center"
-        height="150vh"
-        alt="Wakatime-Stats"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=bijanregmi&theme=dark&langs_count=4"
-    />
-</p>
+<table align="center">
+    <tr>
+        <th colspan="2">
+            <h4>Projects worth looking at</h4>
+        </th>
+    </tr>
+    <tr>
+        <td align="left">
+            <a href="https://github.com/BijanRegmi/younime">
+                <img height="100vh" alt="Younime"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=younime&theme=tokyonight&show_owner=true" />
+            </a>
+        </td>
+        <td align="left">
+            <a href="https://github.com/BijanRegmi/Ext4Impl">
+                <img height="100vh" alt="Ext4Impl"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=Ext4Impl&theme=tokyonight&show_owner=true" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <a href="https://github.com/0xs3gfau1t/eSandesh" width="50%">
+                <img height="100vh" alt="Winder"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=eSandesh&theme=tokyonight&show_owner=true" />
+            </a>
+        </td>
+        <td align="left">
+            <a href="https://github.com/0xs3gfau1t/EthnoAttire">
+                <img height="100vh" alt="EthnoAttire"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=EthnoAttire&theme=tokyonight&show_owner=true" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <a href="https://github.com/0xs3gfau1t/Sajilo-Bus">
+                <img height="100vh" alt="SajiloBus"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=Sajilo-Bus&theme=tokyonight&show_owner=true" />
+            </a>
+        </td>
+    </tr>
+</table>
 
-<hr>
+<hr />
 
-<h2 align="center">Repos</h2>
-<p align="center" style="display: flex;justify-content: center">
-    <a href="https://github.com/BijanRegmi/dotfiles">
-    <img
-        align="center"
-        height="100vh"
-        alt="dotfiles"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=dotfiles&theme=dark&show_owner=true"
-    />
-    </a>
-    <a href="https://github.com/0xs3gfau1t/winder">
-    <img
-        align="center"
-        height="100vh"
-        alt="winder"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=winder&theme=dark&show_owner=true"
-    />
-    </a>
-    <a href="https://github.com/BijanRegmi/Sort-Visualizer">
-    <img
-        align="center"
-        height="100vh"
-        alt="Sort-Visualizer"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=Sort-Visualizer&theme=dark&show_owner=true"
-    />
-    </a>
-</p>
-
-<hr>
-
-<p align="right">
-    <img
-        align="right"
-        alt="Profile-views"
-        src="https://komarev.com/ghpvc/?username=BijanRegmi&style=plastic&color=B33333"
-    />
-</p>
+<img align="right" alt="Profile-views"
+    src="https://komarev.com/ghpvc/?username=BijanRegmi&style=for-the-badge&color=3e68d7" />
