@@ -31,10 +31,10 @@
 <img align="right" height="250" src="assets/cover.svg" />
 <h4>Language and Tools I use</h4>
 <img
-    src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,redux,tailwind,css,prisma,planetscale,postgres,mongodb,mysql,redis,express,postman,vercel,docker,git,bash,linux,neovim,md,cpp,python,lua&perline=10" />
+    src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,nestjs,react,redux,tailwind,css,graphql,prisma,planetscale,postgres,mongodb,mysql,redis,express,postman,vercel,docker,git,bash,linux,neovim,md,cpp,python,lua&perline=10" />
 
 <h4>Exploring</h4>
-<img src="https://skillicons.dev/icons?i=nestjs,graphql,rust,kubernetes&perline=10" />
+<img src="https://skillicons.dev/icons?i=rust,kubernetes&perline=10" />
 
 <h4>Working Environment</h4>
 <p>
