@@ -34,7 +34,7 @@
     src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,nestjs,react,redux,tailwind,css,graphql,prisma,planetscale,postgres,mongodb,mysql,redis,express,postman,vercel,docker,git,bash,linux,neovim,md,cpp,python,lua&perline=10" />
 
 <h4>Exploring</h4>
-<img src="https://skillicons.dev/icons?i=rust,aws,kubernetes&perline=10" />
+<img src="https://skillicons.dev/icons?i=go,rust,aws,kubernetes&perline=10" />
 
 <h4>Working Environment</h4>
 <p>
