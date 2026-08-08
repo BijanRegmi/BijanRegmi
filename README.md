@@ -65,11 +65,11 @@
     <tr>
         <td align="left">
             <img align="left" height="150vh" alt="Most-Used-Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=tokyonight&layout=compact" />
+                src="https://github-stats-extended.vercel.app/api/top-langs?username=bijanregmi&show_icons=true&theme=tokyonight&layout=compact" />
         </td>
         <td align="left">
             <img align="left" height="150vh" alt="Github-Stats"
-                src="https://github-readme-stats.vercel.app/api?username=bijanregmi&show_icons=true&theme=tokyonight" />
+                src="https://github-stats-extended.vercel.app/api?username=bijanregmi&show_icons=true&theme=tokyonight" />
         </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@
         </td>
         <td align="left">
             <img align="left" height="150vh" alt="Wakatime-Stats"
-                src="https://github-readme-stats.vercel.app/api/wakatime?username=bijanregmi&theme=tokyonight&langs_count=4" />
+                src="https://github-stats-extended.vercel.app/api/wakatime?username=bijanregmi&theme=tokyonight&langs_count=4" />
         </td>
     </tr>
 </table>
@@ -96,13 +96,13 @@
         <td align="left">
             <a href="https://github.com/BijanRegmi/younime">
                 <img height="100vh" alt="Younime"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=younime&theme=tokyonight&show_owner=true" />
+                    src="https://github-stats-extended.vercel.app/api/pin/?username=bijanregmi&repo=younime&theme=tokyonight&show_owner=true" />
             </a>
         </td>
         <td align="left">
             <a href="https://github.com/BijanRegmi/Ext4Impl">
                 <img height="100vh" alt="Ext4Impl"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=bijanregmi&repo=Ext4Impl&theme=tokyonight&show_owner=true" />
+                    src="https://github-stats-extended.vercel.app/api/pin/?username=bijanregmi&repo=Ext4Impl&theme=tokyonight&show_owner=true" />
             </a>
         </td>
     </tr>
@@ -110,13 +110,13 @@
         <td align="left">
             <a href="https://github.com/0xs3gfau1t/eSandesh" width="50%">
                 <img height="100vh" alt="Winder"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=eSandesh&theme=tokyonight&show_owner=true" />
+                    src="https://github-stats-extended.vercel.app/api/pin/?username=0xs3gfau1t&repo=eSandesh&theme=tokyonight&show_owner=true" />
             </a>
         </td>
         <td align="left">
             <a href="https://github.com/0xs3gfau1t/EthnoAttire">
                 <img height="100vh" alt="EthnoAttire"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=EthnoAttire&theme=tokyonight&show_owner=true" />
+                    src="https://github-stats-extended.vercel.app/api/pin/?username=0xs3gfau1t&repo=EthnoAttire&theme=tokyonight&show_owner=true" />
             </a>
         </td>
     </tr>
@@ -124,7 +124,7 @@
         <td align="left">
             <a href="https://github.com/0xs3gfau1t/Sajilo-Bus">
                 <img height="100vh" alt="SajiloBus"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=0xs3gfau1t&repo=Sajilo-Bus&theme=tokyonight&show_owner=true" />
+                    src="https://github-stats-extended.vercel.app/api/pin/?username=0xs3gfau1t&repo=Sajilo-Bus&theme=tokyonight&show_owner=true" />
             </a>
         </td>
     </tr>
